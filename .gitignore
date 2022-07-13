@@ -1,3 +1,5 @@
 venv
 ppt
 .ipynb_checkpoints
+__pycache__
+.venv
